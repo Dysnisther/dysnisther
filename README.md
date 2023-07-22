@@ -10,3 +10,5 @@
   <img align="center" alt="Dysni-dotnet" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" alt="Dysni-sqls" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 </div>
+
+https://github.com/Dysnisther/dysnisther/blob/output/github-contribution-grid-snake.gif
