@@ -6,9 +6,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dysni-Csharp" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dysni-dotnet" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" alt="Dysni-sqls" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+  <img align="center" alt="Dysni-Csharp" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Dysni-dotnet" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+  <img align="center" alt="Dysni-dotnetcore" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 </div>
 
 ![snake gif](https://github.com/Dysnisther/dysnisther/blob/output/github-contribution-grid-snake-dark.svg)
