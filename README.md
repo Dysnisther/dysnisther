@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Dysnisther Lucas
 <div>
   <a href="https://github.com/Dysnisther">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dysnisther&show_icons=true&theme=radical&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dysnisther&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dysnisther&layout=compact&langs_count=3&theme=radical&hide_border=false"/>
 </div>
 
